@@ -24,7 +24,7 @@ This dataset contains **20+ years of property sale transactions**, capturing sal
 There were **~1.5 million records** in total, so we filtered the dataset by year range to make the analysis manageable.
 
 ### **Data in Table View**
-<img width="350" height="358" alt="Screenshot 2025-11-21 at 3 34 05 PM" src="https://github.com/user-attachments/assets/d8451a80-4d76-4f44-8967-93edd727bc37" />
+<img width="350" height="358" alt="Screenshot 2025-11-21 at 3 34 05 PM" src="https://github.com/user-attachments/assets/d8451a80-4d76-4f44-8967-93edd727bc37" /> <br>
 
 <img width="551" height="358" alt="Screenshot 2025-11-21 at 3 35 25 PM" src="https://github.com/user-attachments/assets/9704eb4e-1469-4fd2-849c-564cec234f3d" />
 
