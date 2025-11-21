@@ -56,9 +56,9 @@ This dataset interests us because it brings together insights about how money mo
 Real estate cycles reflect **economic shifts**, **pandemic impacts**, and **seasonal buying patterns**.
 
 ### **Key Patterns**
-- Strong **seasonality**, with peaks in mid-year
-- A large decline in **2023–2024**, likely tied to interest rate hikes
-- Forecast suggests **recovery through 2025**
+- Strong seasonality, with peaks in mid-year
+- A large decline in 2023–2024, likely tied to interest rate hikes
+- Forecast suggests recovery through 2025
 
 
 ### **Bar Chart — “Average Sale Amount by Property Type (2021–2023)”**  
@@ -66,7 +66,7 @@ Real estate cycles reflect **economic shifts**, **pandemic impacts**, and **seas
 
 
 ### **Key Insights**
-- Clear **yearly seasonality**
+- Clear yearly **seasonality**
 - Sales spike in **spring–summer**, drop in **winter**
 - **Pandemic-era surge (2020–2021)** demonstrates elevated demand
 - **Sharp decline in 2023–2024**, possibly due to high mortgage rates and low inventory
@@ -83,11 +83,11 @@ Real estate cycles reflect **economic shifts**, **pandemic impacts**, and **seas
 Understanding which property types dominate each region explains local market behavior.
 
 ### **Key Patterns**
-- High-value transactions cluster around **major metros**
-- **Single Family** + **Condo** dominate most regions
-- **Commercial**, **Industrial**, and **Apartments** produce large but isolated spikes
-- **Vacant land** clusters in rural/expanding regions
-- Geographic differences are major drivers of **sale variability**
+- High-value transactions cluster around major metros
+- Single Family and Condo dominate most regions
+- Commercial, Industrial, and Apartments produce large but isolated spikes
+- Vacant land clusters in rural/expanding regions
+- Geographic differences are major drivers of sale variability
 
 
 ### **Bar Chart — Total Sale Amount by Property Type Across the U.S.**  
@@ -116,16 +116,16 @@ Understanding which property types dominate each region explains local market be
 ## Importance of Findings
 
 ### **Buyers**
-- Seasonal timing matters — **winter = lowest competition**
+- Seasonal timing matters — winter = lowest competition
 
 ### **Policymakers**
-- High-value clusters may indicate where **zoning or infrastructure** changes are needed
+- High-value clusters may indicate where zoning or infrastructure changes are needed
 
 ### **Communities**
-- Property type trends support **development planning** and **housing affordability**
+- Property type trends support development planning and housing affordability
 
 ### **Businesses**
-- Regional specialization helps guide **strategy and investment**
+- Regional specialization helps guide strategy and investment
 
 
 # Conclusion
