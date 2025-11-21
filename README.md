@@ -103,7 +103,7 @@ Understanding which property types dominate each region explains local market be
 - Industrial values cluster around **logistics hubs**
 
 
-# 03 — Data Preparation & Findings  
+# Data Preparation & Findings  
 ## Data Preparation
 
 - Converted coordinates (Latitude/Longitude auto-generated in Tableau)
