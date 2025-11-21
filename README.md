@@ -135,3 +135,8 @@ Understanding which property types dominate each region explains local market be
 - Property types cluster differently across regions, shaping **value patterns**
 - Forecast shows **potential rebound** in sales over the next several months
 - Dataset provides strong insights for **buyers, investors, and policymakers**
+
+### *Note:*
+
+Workbooks are attached and seperated by question. Each workbook contains two visualizations. PDF for presentation is also attached.
+
